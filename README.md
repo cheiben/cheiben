@@ -24,6 +24,7 @@ Browse my repositories to see real-world implementations I've developed both ind
 
 ## Connect With Me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chei-ben/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cheiben)
 
- ✨---
+✨---
 *"Smooth seas do not make skillful sailors."* ✨
