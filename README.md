@@ -4,7 +4,7 @@
 
 I'm a tech enthusiast and lifelong learner whose journey began with Windows 98 in middle school 💻. This early exposure sparked a passion that continues to drive me today.
 
-As a Cloud Infrastructure Engineer and Security ☁️, I focus on:
+As an IT professional; Cloud Infrastructure Engineer and Security ☁️, I focus on:
 - Building secure, scalable cloud solutions
 - Implementing cybersecurity best practices 🔒
 - Bridging the gap between **emerging technologies** (Cloud, AI, Quantum Computing) and security
